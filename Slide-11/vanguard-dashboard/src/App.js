@@ -2,7 +2,6 @@ import React from 'react';
 // import logo from './logo.svg';
 import './App.css';
 import Sidebar from './Components/Sidebar/Sidebar'
-import Dashboard from './Components/Dashboard/Dashboard'
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
